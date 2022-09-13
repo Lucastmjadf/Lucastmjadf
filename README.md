@@ -19,3 +19,8 @@ Aqui á baixo vc confere augumas tecnologias e ferramentas que uso.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucastmjadf&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucastmjadf)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucastmjadf&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+<br>
+<a href="https://wa.me/5565999787128?text=Ol%C3%A1%20Lucas,%20eu%20vim%20pelo%20Github%20."><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
